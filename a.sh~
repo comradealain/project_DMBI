@@ -1,0 +1,1 @@
+python Apriori/apriori.py -f Apriori/ap.csv -s 225 -c 0.68
