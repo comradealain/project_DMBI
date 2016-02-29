@@ -4,4 +4,4 @@ The project can be run by executing d.sh on your system. If you are getting perm
 
 After sorting out permission issues run the d.sh
 
-   ./d.sh
+    ./d.sh
